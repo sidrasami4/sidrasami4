@@ -12,8 +12,6 @@ I design and build AI-powered automation systems — WhatsApp bots, AI agents, a
 
 <a href="https://www.linkedin.com/in/sidrasami/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sidrasamikhanzada@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=sidrasami4&label=Profile%20Views&color=2563eb&style=flat-square" alt="profile views"/>
 
@@ -24,11 +22,11 @@ I design and build AI-powered automation systems — WhatsApp bots, AI agents, a
 ## 🙋 About Me
 
 - 🎓 Final-year Computer Systems Engineering student at MUET, graduating November 2026
-- 🤖 Focused on AI Automation — building AI agents and workflow systems that solve real business problems, not just demos
+- 🤖 Focused on AI Automation  building AI agents and workflow systems that solve real business problems, not just demos
 - ⚙️ Currently interning as a **Back-End AI Engineering Intern at FlyRank AI**, working on backend AI services in production
 - 🔗 Building **WhatsFlow**, an AI automation practice delivering n8n + WhatsApp workflows to small businesses
-- 🧠 Author of **REXA**, a multi-stage NLP pipeline evaluating reasoning depth in student answers — my final year project
-- 📚 Continuous learner — currently deepening my skills in multi-agent systems and production deployment
+- 🧠 Author of **REXA**, a multi-stage NLP pipeline evaluating reasoning depth in student answers  my final year project
+- 📚 Continuous learner  currently deepening my skills in multi-agent systems and production deployment
 - 💼 Open to **internships and full-time opportunities** in AI Automation, Backend Development, and AI Agent Engineering
 
 <br/>
