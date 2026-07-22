@@ -114,72 +114,6 @@ Ratings reflect hands-on production/project use, not just exposure. 7+ means I b
 
 <br/>
 
-## 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📞 AI WhatsApp Appointment Booking
-AI-driven booking assistant that handles appointment scheduling end-to-end over WhatsApp using n8n workflows and the Meta Cloud API.
-
-`n8n` `WhatsApp API` `Automation`
-<br/>[Repository →](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Customer Support Agent
-Conversational support agent built to handle common customer queries and escalate edge cases, powered by an LLM API and workflow automation.
-
-`AI Agents` `Prompt Engineering` `n8n`
-<br/>[Repository →](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 AI Lead Management System
-Automated pipeline for capturing, qualifying, and routing leads without manual data entry.
-
-`n8n` `REST APIs` `Automation`
-<br/>[Repository →](#)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ AI Workflow Automation
-General-purpose automation framework connecting business tools via webhooks and APIs to remove repetitive manual work.
-
-`n8n` `Webhooks` `Python`
-<br/>[Repository →](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 AI Healthcare Management System
-Full-stack healthcare application for patient records and scheduling, built with Next.js, React, and TypeScript.
-
-`Next.js` `React` `TypeScript`
-<br/>[Repository →](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 REXA — NLP Reasoning Analysis Pipeline
-Final year project: a multi-stage NLP pipeline evaluating reasoning depth (not correctness) in descriptive answers, using DistilBERT, BART, DeBERTa-v3, and SBERT.
-
-`Python` `Transformers` `NLP`
-<br/>[Repository →](#)
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 💡 Services I Can Build
 
@@ -212,15 +146,7 @@ Final year project: a multi-stage NLP pipeline evaluating reasoning depth (not c
 
 <br/>
 
-## 🎯 2026 Goals
 
-- [ ] Land a full-time role as an AI Automation Engineer
-- [ ] Ship three production-ready AI automation products
-- [ ] Master n8n and multi-agent system design
-- [ ] Go deep on FastAPI and backend architecture at scale
-- [ ] Learn Docker and cloud deployment end-to-end
-- [ ] Make my first open-source contribution
-- [ ] Grow WhatsFlow into a repeatable client-service business
 
 <br/>
 
