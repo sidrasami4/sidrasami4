@@ -48,7 +48,6 @@ I design and build AI-powered automation systems — WhatsApp bots, AI agents, a
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-0f172a?style=flat-square&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=flat-square)
 ![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-14B8A6?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-1E293B?style=flat-square)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
@@ -56,7 +55,6 @@ I design and build AI-powered automation systems — WhatsApp bots, AI agents, a
 **Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Authentication](https://img.shields.io/badge/Authentication-4B5563?style=flat-square&logo=auth0&logoColor=white)
 ![API Development](https://img.shields.io/badge/API%20Development-2563EB?style=flat-square)
 
@@ -79,9 +77,7 @@ I design and build AI-powered automation systems — WhatsApp bots, AI agents, a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 <br/>
@@ -92,7 +88,7 @@ Ratings reflect hands-on production/project use, not just exposure. 7+ means I b
 
 | Technology | Level | Progress |
 |---|---|---|
-| Python | 8/10 | ████████░░ |
+| Python | 9/10 | ████████░░ |
 | Prompt Engineering | 8/10 | ████████░░ |
 | AI APIs (OpenAI / Claude / Gemini) | 8/10 | ████████░░ |
 | n8n | 7/10 | ███████░░░ |
@@ -104,9 +100,7 @@ Ratings reflect hands-on production/project use, not just exposure. 7+ means I b
 | Hugging Face Transformers | 6/10 | ██████░░░░ |
 | JavaScript | 6/10 | ██████░░░░ |
 | PostgreSQL | 6/10 | ██████░░░░ |
-| Postman | 6/10 | ██████░░░░ |
 | TypeScript | 5/10 | █████░░░░░ |
-| Node.js | 5/10 | █████░░░░░ |
 | spaCy | 5/10 | █████░░░░░ |
 | OpenCV | 5/10 | █████░░░░░ |
 | Docker | 5/10 | █████░░░░░ |
